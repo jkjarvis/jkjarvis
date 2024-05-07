@@ -10,10 +10,6 @@ I'm from Bangalore, India.
 
 Fullstack Developer (Heavy on backend side) | DevOps
 
-## GitHub Stats
-
-![Anuttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkjarvis&show_icons=true&count_private=true&hide=contribs)
-
 ## Connect with Me
 
 - [GitHub](https://github.com/jkjarvis)
